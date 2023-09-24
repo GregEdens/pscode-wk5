@@ -1,0 +1,33 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+Get user input, two integers (store in two seperate variables
+
+execute calculation first integer + second integer upon input
+
+print result to the terminal screen
+
+// Exercise 2: Check if a Number is Even or Odd
+
+Get user input, score integer in a variable
+
+main program takes that variable value and /2.
+If result is a whole number, prints Even to the terminal screen
+else result is a !whole, prints odd to the screen
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers.   
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
+
+Get user input stored into a list of 5 integer values.
+Program executes upon completion of 5 entered integers by adding the 5 indices of the list and / by 5, storing this information into a variable 'average'
+Program then executes a series of if-else statements to determine which number is smaller, comparing the indices with <. Result is stored in a variable 'min'.
+Program executes a series of if-else statements to determine which number is greater, comparing the indices value with >. Result is stored in a variable 'max'.
+Print result to terminal screen "Average:" followed by average variable value
+Print result to the terminal screen "Minimum: " follwed by the min variable value.
+Print result to the terminal screen "Maximum: " followed by the max variable value.
+
+-- END --
